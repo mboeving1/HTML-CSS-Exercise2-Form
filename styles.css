@@ -1,0 +1,39 @@
+body{
+    background:#EAF4F9;
+}
+section{
+    background:#DCEAF0;
+    height:535px;
+    width:628px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin: 0 auto;
+}
+
+form{
+    background:white;
+    height: 350px;
+    width:300px;
+    text-align:center;
+    
+    
+}
+p{
+    color:#7A7376;
+
+}
+input{
+    width:80%;
+    border-style:none;
+    border-bottom:solid 1px black;
+    padding-top:31px;
+}
+button{
+    width:80%;
+    background:#3598DB;
+    color:white;
+    border-style:none;
+    margin-top:42px;
+    height:42px;
+}
